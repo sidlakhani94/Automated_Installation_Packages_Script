@@ -8,3 +8,5 @@ Here 3 files are added
 1)install_updated_new.sh -- This will ask from the user that which options have to choose and then respectively the set of the packages first will check and then will install.
 2)generaltools.txt -- This is just text file from which name of the packages will fetch into script and will process it.
 3)developertools.txt -- This is same as generaltools.txt
+
+Note: This script is compitable for Ubuntu 16.04 and 18.04 LTS
