@@ -1,0 +1,6 @@
+putty 
+skypeforlinux
+google-chrome-stable
+anydesk 
+teamviewer
+thunderbird
